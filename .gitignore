@@ -1,0 +1,5 @@
+# dependencies
+node_modules
+.env
+.env.local
+fir-authentication-e3422-firebase-adminsdk-9043x-87077f3b85.json
